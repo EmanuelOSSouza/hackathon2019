@@ -17,7 +17,7 @@ pública para servir como uma referência de compra de produtos.
 | Nome | Função | Redes | Github/Bitbucket | Site pessoal |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Ralf Junior Lima Velane da Silva  | Gestor de projetos | https://www.linkedin.com/in/ralfvelane | @RVelane | Não tem | 
-| Emanuel Oliveira Salvador Souza | Analista de Projeto | https://www.linkedin.com/in/emanuel-oliveira-souza-ba-ti058a125 | @EmanuelOSSouza | Não tem | 
+| Emanuel Oliveira Salvador Souza | Analista de Projeto | https://www.linkedin.com/in/emanuel-oliveira-souza-ba-ti058a125 | @EmanuelOSSouza |      | 
 | Patrick Correia de Carvalho | Full Stack | Não tem | @PatrickDev3Loper | Não tem | 
 | Paulo Renan Tavares Almeida de Souza | Modelagem de Banco |  | @NannAlmeida | Não tem | 
 | Iarley Porto Cruz Moraes | Analista de Projeto/Banco de Dados | https://www.linkedin.com/in/iarley-moraes-931610125 | @Rytokirin21 | Não tem | 
